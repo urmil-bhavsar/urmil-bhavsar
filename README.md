@@ -24,6 +24,7 @@ Hey there! I'm Urmil.
 
 🤝🏻  Connect with Me
 
- [LinkedIn](https://www.linkedin.com/in/urmilbhavsar/) `#ffffff`
+ [LinkedIn](https://www.linkedin.com/in/urmilbhavsar/) 
  [Email](urmilwork1@gmail.com)
+ [hashNode](https://urmilbhavsar.hashnode.dev/)
 

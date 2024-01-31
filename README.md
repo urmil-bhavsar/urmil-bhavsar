@@ -24,7 +24,6 @@ Hey there! I'm Urmil.
 
 🤝🏻  Connect with Me
 
- [LinkedIn](https://www.linkedin.com/in/urmilbhavsar/)
- 
- Email urmilwork1@gmail.com
+ [LinkedIn](https://www.linkedin.com/in/urmilbhavsar/) `ffffff`
+ [Email](urmilwork1@gmail.com)
 

@@ -2,7 +2,7 @@
 **Hey there! I'm Urmil.**
 
 
-**👨🏻‍💻  About Me**
+***👨🏻‍💻  About Me***
 
 🤔   Exploring new technologies and developing software solutions and quick hacks.
 
@@ -15,7 +15,7 @@
 ✍️   Pursuing Sketching and reading books as hobbies/side hustles.
 
 
-**🛠  Tech Stack**
+***🛠  Tech Stack***
 
 🌐   HTML5 CSS JavaScript Bootstrap Node.js React Express.js 
 

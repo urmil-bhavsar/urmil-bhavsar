@@ -29,9 +29,10 @@
 🤝🏻  Connect with Me
 
  [LinkedIn](https://www.linkedin.com/in/urmilbhavsar/) 
+ 
  [Email](urmilwork1@gmail.com)
+ 
  [hashNode](https://urmilbhavsar.hashnode.dev/)
 
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=urmil-bhavsar&layout=compact)
 

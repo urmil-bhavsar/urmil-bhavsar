@@ -4,7 +4,7 @@
 
 ***👨🏻‍💻  About Me***
 
-🤔   Exploring new technologies and developing software solutions and quick hacks.
+🤔   Exploring new technologies.
 
 🎓   Studying Information Technology at Government Engineering College, Modasa.
 

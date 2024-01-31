@@ -1,13 +1,3 @@
-- 👋 Hi, I’m @urmil-bhavsar
-- 👀 I’m interested in web development...
-- 🌱 I’m currently learning reactjs...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-urmil-bhavsar/urmil-bhavsar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 
 Hey there! I'm Urmil.
 👨🏻‍💻  About Me
@@ -26,5 +16,5 @@ Hey there! I'm Urmil.
 
  
 🤝🏻  Connect with Me
- LinkedIn Instagram Email
+ /LinkedIn Instagram Email
 

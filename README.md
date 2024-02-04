@@ -1,13 +1,10 @@
 
-**Hey there! I'm Urmil.**
+**Hey there! I'm Urmil.**<br>
 
 
-***👨🏻‍💻  About Me***
-
-🤔   Exploring new technologies.
-
-🎓   Studying Information Technology at Government Engineering College, Modasa.
-
+***👨🏻‍💻  About Me***<br>
+🤔   Exploring new technologies.<br>
+🎓   Studying Information Technology at Government Engineering College, Modasa.<br>
 💼   Working as Reactjs trainee at Reveation.
 
 🌱   Enthsiastic about web development and machine learning.

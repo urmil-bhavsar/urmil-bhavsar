@@ -4,17 +4,16 @@
 
 ***👨🏻‍💻  About Me***<br>
 🤔   Exploring new technologies.<br>
-🎓   Studying Information Technology at Government Engineering College, Modasa.<br>
+🎓   Completed B.E.(IT) from Government Engineering College, Modasa.<br>
 💼   Working as Reactjs trainee at Reveation.<br>
 🌱   Enthsiastic about web development and machine learning.<br>
 ✍️   Pursuing Sketching and reading books as hobbies/side hustles.<br>
 
 
 ***🛠  Tech Stack***<br>
-🌐   HTML5 CSS JavaScript Bootstrap Node.js React Express.js <br>
+🌐  Angular, React.js Node.js Express.js Core-Java<br>
 🛢   MySQL MongoDB<br>
-⚙️   Git GitHub <br>
-🔧   Visual Studio Code Intellij IDEA<br>
+⚙️   Git GitHub SVN<br>
 
 🤝🏻  Connect with Me<br>
  [LinkedIn](https://www.linkedin.com/in/urmilbhavsar/) <br>

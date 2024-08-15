@@ -11,7 +11,7 @@
 
 
 ***🛠  Tech Stack***<br>
-🌐  Angular, React.js Node.js Express.js Core-Java<br>
+🌐  Angular, React.js Node.js Express.js Core-Java, Python<br>
 🛢   MySQL MongoDB<br>
 ⚙️   Git GitHub SVN<br>
 

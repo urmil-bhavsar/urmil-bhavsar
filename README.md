@@ -7,7 +7,7 @@
 🎓   Completed B.E.(IT) from Government Engineering College, Modasa.<br>
 💼   Working as Reactjs trainee at Reveation.<br>
 🌱   Enthsiastic about web development and machine learning.<br>
-✍️   Pursuing Sketching and reading books as hobbies/side hustles.<br>
+✍️   Pursuing Sketching and reading books as side hustles/hobbies.<br>
 
 
 ***🛠  Tech Stack***<br>

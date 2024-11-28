@@ -5,7 +5,7 @@
 ***👨🏻‍💻  About Me***<br>
 🤔   Exploring new technologies.<br>
 🎓   Completed B.E.(IT) from Government Engineering College, Modasa.<br>
-💼   Working as Reactjs trainee at Reveation.<br>
+💼   Working as Software Developer.<br>
 🌱   Enthsiastic about web development and machine learning.<br>
 ✍️   Pursuing Sketching and reading books as side-hustles/hobbies.<br>
 
